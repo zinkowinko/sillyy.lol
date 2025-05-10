@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional extras */
+body {
+  @apply bg-pink-100 text-center font-sans;
+}
+
+img {
+  @apply rounded-full;
+}
