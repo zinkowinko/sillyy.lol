@@ -7,13 +7,13 @@ export default function Home() {
     <div className="min-h-screen bg-pink-100 flex flex-col items-center justify-center p-10">
       <Head>
         <title>sillyy.lol</title>
-        <meta name="description" content="Behold, the Eternal Spinny Cat" />
+        <meta name="description" content="sillyy.lol maintenance" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="w-48 h-48">
         <motion.img
-          src="https://placekitten.com/200/200"
+          src="https://tenor.com/view/doudou-oye-cat-funny-cat-love-cats-gif-13560839042944678924"
           alt="rotating cat"
           className="rounded-full border-4 border-purple-300 shadow-lg"
           animate={{ rotate: 360 }}
