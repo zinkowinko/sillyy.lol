@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       <div className="mt-6 text-xl text-purple-700 font-semibold">
-        Behold, the Eternal Spinny Cat
+        sillyy.lol maintenance
       </div>
     </div>
   );
