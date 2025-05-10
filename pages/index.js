@@ -13,7 +13,7 @@ export default function Home() {
 
       <div className="w-48 h-48">
         <motion.img
-          src="https://tenor.com/view/doudou-oye-cat-funny-cat-love-cats-gif-13560839042944678924"
+          src="https://media1.tenor.com/m/vDHHQtr3PAwAAAAd/doudou-oye.gif"
           alt="rotating cat"
           className="rounded-full border-4 border-purple-300 shadow-lg"
           animate={{ rotate: 360 }}
