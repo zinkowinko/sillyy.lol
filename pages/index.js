@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-pink-100 flex flex-col items-center justify-center p-10">
       <Head>
-        <title>sillyy.lol</title>
+        <title>zicone</title>
         <meta name="description" content="zicone maintenance" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
