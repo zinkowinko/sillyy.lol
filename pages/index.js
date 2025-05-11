@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen bg-pink-100 flex flex-col items-center justify-center p-10">
       <Head>
         <title>zicone</title>
-        <meta name="description" content="zicone maintenance" />
+        <meta name="description" content="maintenance" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       <div className="mt-6 text-xl text-purple-700 font-semibold">
-        zicone maintenance
+        maintenance
       </div>
     </div>
   );
