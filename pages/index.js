@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen bg-pink-100 flex flex-col items-center justify-center p-10">
       <Head>
         <title>zicone</title>
-        <meta name="description" content="maintenance" />
+        <meta name="description" content="maintenance"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
